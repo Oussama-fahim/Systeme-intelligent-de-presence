@@ -10,7 +10,6 @@
 - [Développement et Personnalisation](#développement-et-personnalisation)
 - [Dépannage](#dépannage)
 - [Contributions](#contributions)
-- [Licence](#licence)
 
 ---
 
