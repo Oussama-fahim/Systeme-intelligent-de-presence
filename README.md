@@ -337,11 +337,6 @@ python3 -c "from RPLCD.i2c import CharLCD; lcd = CharLCD('PCF8574', 0x27); lcd.w
 
 ---
 
-## 📄 Licence
-
-Ce projet est distribué sous licence MIT. Voir le fichier `LICENSE` pour plus de détails.
-
----
 
 ## 📞 Support
 
