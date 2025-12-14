@@ -349,13 +349,14 @@ Pour toute question ou problème :
 
 - **Encadrant** : Pr. Mohamed Hosni
 - **Équipe de Développement** :
-  - Salma Bourkiba
-  - Hasna Jhabli  
+  - Marouane adernou
+  - Aymane boudrouss 
   - Meryem Filali Ansari
-  - Ouiame Bellaknich
-  - Mariam Lakhsassi
-  - Fatima El Fadili
+  - walid laghrissi
+  - Oussama fahim
+  - zakaria syabri
   - Salma Oulkiass
+  - Mohamed tribak
 
 - **Contributeurs** : Tous les testeurs et personnes ayant participé à l'amélioration du système.
 
